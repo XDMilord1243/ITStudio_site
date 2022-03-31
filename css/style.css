@@ -394,6 +394,7 @@ a {
 }
 .work__top {
 	padding: 100px 0px 70px;
+	color: #fff;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
